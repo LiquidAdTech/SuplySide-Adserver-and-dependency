@@ -1,0 +1,14 @@
+{
+  "name" : "liquidadx/liquidadx",
+  "description" : "LiquidAdx",
+  "version" : "1.0.0",
+  "minimum-stability" : "beta",
+  "prefer-stable" : true,
+  "require" : {
+    "php" : ">=5.3.3",
+    "zendframework/zendframework" : "2.5.3",
+    "zf-commons/zfc-rbac" : "v2.6.3",
+    "doctrine/doctrine-orm-module" : "1.1.0",
+    "phpoffice/phpexcel" : "1.8.2"
+  }
+}
